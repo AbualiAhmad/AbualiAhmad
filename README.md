@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmad Abuali, A Drexel University Software Engineering student.
-- 👀 I’m interested in a wide variety of software design aspects such as Web Development, Object Oriented Programming, and Test-Driven Development.
+- 👀 I’m interested in a wide variety of software design aspects such as Web Development, Object Oriented Programming, and low-latency algorithmic atmospheres.
 - 📫 Email: aa4545@drexel.edu
 
 <!---
